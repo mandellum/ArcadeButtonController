@@ -5,7 +5,7 @@ This is a mini-script with the purpose of converting an arcade button press into
 
 You can download Ardity [here](https://github.com/DWilches/Ardity).
 
-#### Roadmap
+### Roadmap
 
 The Arcade Button Controller works well with a single button, but I am looking forward to incorporating a few features and fixes for future builds.
 
