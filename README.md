@@ -1,6 +1,5 @@
-Arcade Button Controller
-========================
-An Arduino-powered arcade controller for Unity
-----------------------------------------------
+# Arcade Button Controller
+### An Arduino-powered arcade controller for Unity
+
 
 
